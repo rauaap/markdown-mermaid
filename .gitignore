@@ -1,3 +1,5 @@
 build
+dist
+env
 markdown_mermaid.egg-info
 __pycache__
