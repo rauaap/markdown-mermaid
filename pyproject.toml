@@ -1,11 +1,19 @@
 [project]
 name = "markdown-mermaid"
-version = "0.1"
+version = "0.2"
+
 authors = [
     { name = "rauaap" }
 ]
+
 dependencies = [
     "markdown >= 3.4.1"
+]
+
+readme = "readme.md"
+
+classifiers = [
+    "License :: OSI Approved :: GNU Lesser General Public License v3 (LGPLv3)"
 ]
 
 [build-system]
